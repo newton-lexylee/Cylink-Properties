@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "287723400502",
+    "firebase_url": "https://cylink-properties.firebaseio.com",
+    "project_id": "cylink-properties",
+    "storage_bucket": "cylink-properties.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287723400502:android:e218dfde8bf6f7c11dd797",
+        "android_client_info": {
+          "package_name": "com.example.cylinkproperties"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287723400502-8uss96s6flbs40jv274332en2jdgdfq9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cylinkproperties",
+            "certificate_hash": "89cedcd9dce48279a936b76e2165c637cc491f4a"
+          }
+        },
+        {
+          "client_id": "287723400502-t0kten7h8bc3078so2qdao539v4cfgc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV5ECZgnRUt7GiJcSQBMVm7Di8mKViJB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287723400502-t0kten7h8bc3078so2qdao539v4cfgc4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
